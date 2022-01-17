@@ -1,0 +1,8 @@
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\bin\Debug\Casino.exe.config
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\bin\Debug\Casino.exe
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\bin\Debug\Casino.pdb
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\obj\Debug\Casino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\obj\Debug\Casino.exe
+C:\Users\Gizem\Desktop\projeler\Casino\Casino\obj\Debug\Casino.pdb
